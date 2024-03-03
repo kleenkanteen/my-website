@@ -11,9 +11,11 @@ tags:
 description: "It was crazy."
 ---
 
-Feb 16-23, 2024. One of the most intense weeks of my life. But also the most fun.
+Feb 16-23, 2024. One of the most intense weeks of my life. But it was worth it. It taught me a lot about making projects and my limits.
 
-2 different sets of teammates for each. I found each of them and assembled the teams. I hatched the ideas for all the team. For the 2nd one we had 3 ideas in total we considered, I gave 2 of them. After some research my team decided to go with my second one.
+2 different sets of teammates for each. I found each of them and assembled the teams. I hatched the ideas for all of them.
+
+Although for the 2nd one, we had brainstormed 3 total, 2 were from me them. After some deeper research my team decided to choose my 2nd idea.
 
 I used clickup for docs + task assignment. It combined notion + trello beautifully. Discord for communication. Discord was crucial.
 
