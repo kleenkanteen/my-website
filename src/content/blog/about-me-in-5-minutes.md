@@ -8,12 +8,12 @@ featured: true
 draft: false
 tags:
   - me
-description: "Know me like you're my best friend :)."
+description: "Know a little bit more about me."
 ---
 
 # My motto: Be bold, be curious.
 
-Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold!
+Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold.
 
 And be curious. Not enough people ask enough questions. Too many people stick to the defaults when it comes to opinions or even their computer settings. Because it's hard to think. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
 
@@ -21,17 +21,17 @@ And be curious. Not enough people ask enough questions. Too many people stick to
 
 # A little more about me
 
-- **Resourceful**: I'll ask and google to learn something I am interested in. Helped me a lot in school when the teachers/professors (usually) can't teach. I've found good teachers to be rare.
+- **Resourceful**: I'll ask and google to learn something I am interested in. Helped me a lot in school when the teachers/professors (usually) can't teach. Good teachers are rare and only with the internet was I able to know what good teaching looks like.
 
-- **Critical thinker**: I'm opinionated. I think of why things happen, why people do certain things. And what's the ideal way to live.
+- **Critical thinker**: I'm opinionated. I think of why things happen. I don't sit idly.
 
-- **History nerd**: I like knowing how others used to live. How did our world came to be? How did computers and programming languages evolve?
+- **History nerd**: I like knowing how others used to live. How did our world came to be? How did computers and programming languages evolve? Things did not come from nowhere.
 
-- **Ideas** - I have 100+ ideas written down. I use Obsidian for my notes. So many ideas, so little time.
+- **Ideas** - I have 100+ side project ideas written down. So many ideas but too little time.
 
 - **Minimalism** - quality over quantity. I buy as little as possible. What makes life good is not the material, but the immaterial.
 
-- **Organized** - I like order. Having things in a logical manner, physically and virtually. Simple example: I make my bed every morning.
+- **Organized** - I like order. Having things in a logical manner, physically and virtually. Simple example: I make my bed every morning. I like working with people who are organized. They are logical and clear in their thinking.
 
 ## My Desk Setup
 
