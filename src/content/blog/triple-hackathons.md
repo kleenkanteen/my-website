@@ -3,7 +3,7 @@ title: My story of simultaneously doing 3, 1 week long online hackathons
 author: Sabih Sarowar
 pubDatetime: 2024-03-3T00:55:51Z
 slug: triple-hackathons
-featured: false
+featured: true
 draft: false
 tags:
   - coding

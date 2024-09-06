@@ -1,8 +1,8 @@
 ---
 title: How it's like being a lead engineer at a pre-MVP startup
 author: Sabih Sarowar
-pubDatetime: 2024-09-06T15:42:51Z
-modDatetime: 2024-09-06T15:42:51Z
+pubDatetime: 2024-09-06T00:42:51Z
+modDatetime: 2024-09-06T00:42:51Z
 slug: lead-engineer
 featured: true
 draft: false
