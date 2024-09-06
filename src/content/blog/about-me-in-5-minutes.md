@@ -31,7 +31,7 @@ And be curious. Not enough people ask enough questions. Too many people stick to
 
 - **Minimalism** - quality over quantity. I buy as little as possible. What makes life good is not the material, but the immaterial.
 
-- **Organized** - I like order. Having things in a logical manner, physically and virtually. Simple example: I make my bed every morning. I like working with people who are organized. They are logical and clear in their thinking.
+- **Organized** - I like order; having things arranged in a logical manner. Simple example is that I make my bed every morning. According to sleepdoctor.com, only 38% of adults do so. And I like working with organized people, who doesn't? They are cleanr and logical in their thinking.
 
 ## My Desk Setup
 
@@ -83,9 +83,9 @@ This quote is about simplicity. I find it in the Linkedin bio of one senior deve
 > If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It is simple to make
 > things complex, but complex to make things simple.
 
-I love how minimalism and programming make a beautiful marriage.
+Minimalism and programming make a beautiful marriage.
 
-And the quote is about having the right values. That's why I like the spirit of open source, the purpose is to share knowledge and help others:
+And the following quote is about having the right values. That's why I like the spirit of open source, the purpose is to share knowledge and help others. Few people help others in my experience:
 
 > What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, led by >head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey. When asked how he assembled the >team, as well as his University of Minnesota hockey teams (Brooks had taken Minnesota from a perpetual doormat to winning three Division 1 National Championships >in 7 years), Brooks responded, “The key to my recruiting was that I looked for people first, athletes second. I wanted people with sound value systems because >you cannot buy values. You are only as good as your values. I learned early on that you do not put greatness into people…but somehow try to pull it out.
 
