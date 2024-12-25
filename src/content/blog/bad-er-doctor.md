@@ -1,5 +1,5 @@
 ---
-title: How a crappy ER doctor could have a killed me
+title: How a crappy ER doctor could have killed me
 author: Sabih Sarowar
 pubDatetime: 2024-06-28T15:42:51Z
 modDatetime: 2024-06-28T15:42:51Z
@@ -8,15 +8,14 @@ featured: true
 draft: false
 tags:
   - me
-description: "I now believe most doctors know very little."
+description: "I now believe most doctors know little about medicine."
 ---
 
 # What Happened
 
-On Dec 11, 2022, I woke up dizzy and with blurry vision. I remember walking down the stairs like a drunk zigzag, but I thought it was normal since I woke up. Even though that never happened before (mental state altered). I managed to make it down the stairs slowly but surely. My mom saw me through this and said I looked like a skeleton and something was wrong with me. I brushed it off. Sick me is so confident.
+On Dec 11, 2022, I woke up dizzy and with blurry vision. I remember walking down the stairs like a drunk zigzag, but I thought it was normal since I woke up. Even though that never happened before, my mental state was altered. I managed to make it down the stairs, slowly but surely. My mom saw me throughout this and said I looked like a skeleton and that something was wrong with me. I brushed it off. Sick me was so confident.
 
-My mom suggested to call the ambulance but I refused. After feeling worse myself over the next 30 minutes, I relented and my parents called the ambulance. I was put on the stretcher and arrived at the ER. I got a room quickly. Got some insulin
-and fluids and 5 hours later, transferred to the ICU for 2 days before being in the ward for a day and released. I was diagnosed with extremely high blood sugar, DKA (diabetic ketoacidosis). It was due to type 1 diabetes, which means my immune system killed off most of my insulin cells. On my mom's side, my grandma and uncle both have it as well, surprise. My mom is of 4 kids, 1 has it. My parents have 3, 1 has it. 25% and 33% hit rate. Imagine how little chronic diseases would exist if those with them did not have kids! Such a simple solution to preventing lifelong suffering. I don't suffer though, I spend 10 minutes max a day on it. I eat healthy and inject insulin painlessly and with correct dosing into my belly every time after eating. I've optimized my management, time and cost wise. But 95% of type 1's have horrible blood sugar averages (a1c > 7) and it will definitely take years off their lives.
+My mom suggested to call the ambulance but I refused. But after feeling worse over the next 30 minutes, I relented and my parents called the ambulance. I was put on the stretcher and arrived at the ER, got a room quickly. Got some insulin and fluids and 5 hours later, transferred to the ICU for 2 days before being in the ward for a day and released. I was diagnosed with extremely high blood sugar, DKA (diabetic ketoacidosis). It was due to type 1 diabetes, which means my immune system killed off most of my insulin cells. On my mom's side, my grandma and uncle both have it as well, surprise. My mom is of 4 kids, 1 has it. My parents have 3, 1 has it. 25% and 33% hit rate. Imagine how little chronic diseases would exist if those with them did not have kids! Such a simple solution to preventing lifelong suffering. I don't suffer though, I spend 10 minutes max a day on it. I eat healthy and inject insulin painlessly and with correct dosing into my belly every time after eating. I've optimized my management, time and cost wise. But 95% of type 1's have horrible blood sugar averages (a1c > 7) and it will definitely take years off their lives.
 
 Back to my story, for the past month before diagnosis, I was peeing 1.5 hours after drinking anything more than half a cup of water. I had unknowingly lost about 20% of my body weight. I got cramps in my thighs and wrists out of the blue. I had 13x the average amount of sugar in my blood, 66mmol vs. 5mmol. Turns out over the past few months, my immune system had killed off most of my insulin cells. It's a different disease than type 2 diabetes, the one 95% of diabetics have. They're both called diabetes but they have totally different root causes. Type 2 is when your cells become resistant to insulin, usually due to weight and bad diet (too much sugar/carbohydrates).  
 

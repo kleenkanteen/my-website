@@ -13,25 +13,25 @@ description: "Know a little bit more about me."
 
 # My motto: Be bold, be curious.
 
-Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold.
+Don't be afraid to voice your concerns or to ask questions. Too many people are in my experience. Fortune favors the bold. A risk-taker is not afraid.
 
-And be curious. Not enough people ask enough questions. Too many people stick to the defaults when it comes to opinions or even their computer settings. Because it's hard to think. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
+And be curious. Not enough people ask enough questions. Too many people stick to the defaults when it comes to opinions ,or even their computer settings. Because it's hard to think. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
 
 ---
 
 # A little more about me
 
-- **Resourceful**: I'll ask and google to learn something I am interested in. Helped me a lot in school when the teachers/professors (usually) can't teach. Good teachers are rare and only with the internet was I able to know what good teaching looks like.
+- **Resourceful**: I'll ask and google to learn something I am interested in. Helped me a lot in school when the teachers or professors usually couldn't teach a topic well. Good teachers are rare, and only with the internet was I able to know what good teaching looks like.
 
 - **Critical thinker**: I'm opinionated. I think of why things happen. I don't sit idly.
 
-- **History nerd**: I like knowing how others used to live. How did our world came to be? How did computers and programming languages evolve? Things did not come from nowhere.
+- **History nerd**: I like knowing how others used to live. How did our world came to be? How did computers and nations come to be? Everything has a historical influence.
 
 - **Ideas** - I have 100+ side project ideas written down. So many ideas but too little time.
 
-- **Minimalism** - quality over quantity. I buy as little as possible. What makes life good is not the material, but the immaterial.
+- **Minimalism** - Quality over quantity. I buy only what I need. I can't remember the last time I bought clothing, I have enough. What makes life good is not the material, but the immaterial. The impact you have on others.
 
-- **Organized** - I like order; having things arranged in a logical manner. Simple example is that I make my bed every morning. According to sleepdoctor.com, only 38% of adults do so. And I like working with organized people, who doesn't? They are cleanr and logical in their thinking.
+- **Organized** - I like order - having things arranged in a logical manner. A simple example is that I make my bed every morning. According to sleepdoctor.com, only 38% of adults do so. I think that tells a lot about someone. Would be interesting to prove that hypothesis...
 
 ## My Desk Setup
 
@@ -78,7 +78,7 @@ If you are interested, I wrote an [in-depth article of my keyboard here](https:/
 
 ## 2 quotes to end it off:
 
-This quote is about simplicity. I find it in the Linkedin bio of one senior developer:
+This quote is about simplicity. I found it in the Linkedin bio of one senior developer in 2023 summer:
 
 > If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It is simple to make
 > things complex, but complex to make things simple.

@@ -12,13 +12,19 @@ tags:
 description: "It's fun and interesting."
 ---
 
-# What is Keepsake
+# Intro
 
-[Keepsake](hellokeepsake.com) is a website that reduces manual work for estate planning lawyers (who you go to write a will and stuff). All they do in their jobs essentially is to collect info from clients, sometimes verbally in a meeting, use that to fill out forms, and then draft up the legal docs. Quite repetitive. Perfect for a tool to help them save time. 
+[Keepsake](hellokeepsake.com) is a webapp specifally for inheritance lawyers, the type you go to for a will. All they do in their jobs essentially is to collect info from clients, sometimes verbally in a meeting, use that to fill out forms, and then draft up the legal docs. Quite repetitive. Perfect for a tool to help them save time. 
 
-Keepsake is a pre-MVP startup with the planned launch date at sep 30. There are 5-10 lawyers on the waitlist who will pay upon MVP launch. The word startup sounds a bit weird, as if you got VC funding, which we got none of. Think of it more as an early stage SaaS.
+Keepsake is a pre-MVP startup. There are 28ish lawyers on the waitlist who each got a 30min demo of the figma mockup back in Mar-Apr 2024, by Justin, the sales cofounder. Half of them said they'd be willing to sign up upon launch, and the other said they are interested but are waiting for it to launch before tehy decide. 
 
-There is 1 major competitor, DecisionVault. The founder made it after seeing his wife, an estate attorney, tediously filling out PDF/paper forms. So he made a site to collect this info in a online form. The idea for Keepsake is to be a step above this in automation. And many lawyers don't use any online form site, they just send a plain PDF to clients.
+The word startup sounds a bit weird, as if you got funding from investors, which we got none of. Think of it more as an early stage SaaS.
+
+There is 1 major competitor, DecisionVault. The founder made it after seeing his wife, an inheritance lawyer, tediously having to re-type 34 different people's information, from paper to computer. So he made a site to collect all this info in a online form. Many lawyers don't use any online form solution, they just send a plain PDF to clients. The idea for Keepsake is to be a step above this, doing that but much more in the estate plannign workflow.
+
+Edit Dec 24, 2024: The title "lead engineer" is pretentious. I just intherited a codebase with 50k lines of code, a AWS ECS deployment infra that was shoddily setup and with 0 documentation. The secrets for the staging and production deployments were both stored in separate .env files inside a s3 bucket instead of being pulled from Secrets Manager. Total rookie move on whoever set that up, with clickops too so I can't easily replicate what they did.
+
+I had clean up the deployment mess, brought in 3 of my talented dev friends part-time at 15h/week to help out, and we made incredible progress and launched the beta in early Nov. The meat of this article was written on Sep 6, but I write this line on Dec 24. We are currently in beta with 2 lawyers, one of which has sent is forms from our site to 2 real clients last week. They will take about 3 weeks to fill it out. We are hoping to launch the MVP, with improvements from beta, in late jan. It's been a ride and over the past 2 months since Nov 1, I've met with 11 different lawyers, 1 paralegal, and 2 assitants, over 21 meetings. Some lawyers are repeat ones like those in our beta. I met 4 different times, 6 hours total, with the one who's trying it out with 2 clients right now. I got a lot of feedback. I see where the opportunity is. The team has changed drastically since Sep 6. And I'm excited to get this MVP launch going!
 
 # History of Keepsake
 
@@ -54,14 +60,14 @@ The pains of my role is that that some of the tickets are too large and should b
 
 # The fun
 
-The interesting part is that I get to work in a software team that is similar to the real world. It's fun. I was in a rut when things in Keepsake were slow in July. The whole month actually. My sleep schedule was wack. I couldn't find an idea that excited me, even though I had 100 ideas written down, some that were pretty good. I wanted to work on something more serious with a team. Like how my 1 year fullstack internship was. It's fun working with others. In late Aug, after guaranteeing a committed team with the 4 other devs, speed picked up. Things are being made, technical problems are being solved. It's getting close to a real job.
+The interesting part is that I get to work in a software team that is similar to the real world. It's fun. I was in a rut when things in Keepsake were slow in July. The whole month actually, my sleep schedule was wack. I was sleeping at 5am. I couldn't find an idea that excited me, even though I had 100 ideas written down, some that were pretty good. I wanted to work on something more serious with a team, like how my 1 year fullstack internship was. It's fun working with others. Then with Keepsake in late Aug, after guaranteeing a committed team with the 4 other devs, speed picked up. Things are being made, technical problems are being solved. It's getting close to a real job.
 
 I did have experience leading devs as I did 6 online hackathons in the 6 months preceding that. Each were 20-30 hours of total effort, on average from 3-7 days. Each was with 2 other devs that I had sought out and invited. I learnt how to identify talent (look at their github), plan a project, write tickets, break them down to manageable size, and communicate well. I learnt how to ship something from scratch as a team, as ragtag as it was. Keepsake is a level above that. It's like a serious hackathon but the idea has market validation and you're not just working on it for a couple days.
 
 # How I am doing
 
-You might be wondering, how am I doing as a lead engineer/tech lead? A dev today told me I am doing well and I was flattered. I think I'm doing an average job. I'm spending so much time communicating instead of coding. I have a high level view of the tickets so I've been able to prevent duplicate work or question something that is low value so the other 2 founders agree to leave it out of the MVP.
+You might be wondering, how am I doing as a lead engineer/tech lead? A dev today told me I am doing well and I was flattered. I think I'm doing an average job. I'm spending so much time communicating instead of coding. I have a high level view of the tickets, so I've been able to prevent duplicate work form being done, or communicate if I think something is low value, so the other 2 founders will agree to leave it out of the MVP.
 
-The past 2 weeks I have not been able to write code. I did do a good bit of aws and gcp setup for devops stuff though. Most of my time is communicating, such as asking for clarification on tickets on linear from Justin and Isabella, or suggesting we leave x out of the MVP since it wouldn't bring much value. Or I respond to dev questions about their tickets and jumping in a call to help out. I do feel productive. But not as much as when I finish a feature, such as when yesterday I got ci/cd set up on the staging branch to autodeploy to gcp cloud run for every commit. That felt good seeing my (config) code come work and do something impactful.
+The past 2 weeks I have not been able to write code. I did do a good bit of aws and gcp setup for devops stuff. But most of my time is communicating, such as asking for clarification on tickets on linear from Justin and Isabella, or suggesting we leave x out of the MVP since it wouldn't bring much value. Or I respond to dev questions about their tickets, or jumping in a call to help them out on it. I do feel productive. But not as much as when I finish a feature, such as yesterday, when I got ci/cd set up on the staging branch to autodeploy to gcp cloud run for every commit. That felt good seeing my config code come to life and do something meaningful. Helping others is meaningful as well though.
 
 Hopefully I can manage well enough so at least half of my time can be spent coding. I hope Keepsake makes a lot of money and I can learn what it takes to take a SaaS from $0 monthly revenue to $100k as the lead engineer. There's a long road ahead for me and for Keepsake and I'm looking forward to it.
