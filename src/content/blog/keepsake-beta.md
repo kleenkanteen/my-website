@@ -22,6 +22,8 @@ The third will use it with his next client, but he only gets 1 a month, so I don
 
 The 4th one wants 2 features before she starts using it. That's the goal next week, to get her suggestions implemented. I think we have to shift focus now to making what our active beta users want. I read this advice before: have your initial users love you.
 
+In the middle of writing this, at midnight, one client of the first lawyer, sent a help message over live chat. He was the 3rd client that the lawyer used Keepsake with actually. I'm pretty he just sent the Keepsake invite link to the client today. So at midnight, I got an email notif about Chatwoot message, logged into Chatwoot (live chat) 1 minute later, and asked him if he can hop on a zoom. I sent the zoom link, he joined, I asked him to screenshare, and resolved his issue in 2 minutes. He just had to open the invite link for the form again, I think he closed his current tab by accident. First time a client/lawyer ever used the live chat, and I helped resolve their issue.
+
 # What I've been doing
 
 I also brought on 2 offshore devs since 2 weeks ago. Am paying them from my savings, $2k/month total for both of them. I stopped looking for an entrepreneurial dev, who is willing to work for equity + profit share, for 20-50h/week. These kind of people are rare as diamonds. I just want to find someone like me.
@@ -59,4 +61,3 @@ Risk appetite is also deterministic. Those with families, or who live by themsel
 But even other unemployed new grads in my shoes are mostly unwilling to join. I have had 2 join before, but they both left after 10-30 hours. One got a job, the other basically disappeared, then when I followed up, he said he wasn't excited aboutt the idea, and I soft removed him (I said we have enough dev capacity, and if he's fine with leaving. He said yes.)  
 
 Nonetheless, the ideal person to join is someone in the same boat as me: unemployed and with no job/school. And also skilled at programming. Someone itching to join something interesting, and is just looking for an idea that both excites them, and has opportunity. This was me when I joined back in early July.
-
