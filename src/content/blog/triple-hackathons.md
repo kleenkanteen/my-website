@@ -1,5 +1,5 @@
 ---
-title: My story of simultaneously doing 3, 1 week long online hackathons
+title: Triple hackathons in the same week
 author: Sabih Sarowar
 pubDatetime: 2024-03-3T00:55:51Z
 slug: triple-hackathons
@@ -17,11 +17,11 @@ Feb 16-23, 2024. One of the most intense weeks of my life. But it was worth it. 
 
 Although for the 2nd one, my team brainstormed 3 ideas total, 2 were from me. After some deeper research my team decided to go with my 2nd idea.
 
-I used clickup for docs + task assignment. It combined notion + trello beautifully. Discord for communication. Discord was crucial.
+I used clickup for docs + task assignment. It combined notion + trello beautifully. Discord for communication, it was crucial.
 
-The hackathons were all due at the same day at 12pm, 1pm, and 6pm. I started coding at 9am that day. I had just a 30 minute lunch break. All ended at 6pm. Was spent by then. Coding for a deadline is stresful. It's not fun.
+The hackathons were all due at the same day at 12pm, 1pm, and 6pm. I started coding at 9am that day. I had just a 30 minute lunch break. All ended at 6pm. I was spent by then. Coding for a deadline is very stressful, it's not fun.
 
-1. The first one was due 12pm. [GPT-4 Powered Hackathon](https://lablab.ai/event/gpt-4-powered-app-creation-hackathon). We tried turning a phone camera into a cashier system using gpt-4 vision. Take picture, get item and price added to cart automatically. \
+1. The first one was due 12pm. [GPT-4 Powered Hackathon](https://lablab.ai/event/gpt-4-powered-app-creation-hackathon). We tried turning a phone camera into a cashier system using gpt-4 vision. Take a picture to get the item and price added to cart automatically. \
    \
    From 9am-12pm I was trying to finish it. Got the inventory and cart page working. Only managed to finished 90% of it. Got stuck on the camera part. The camera only took a picture of the top 30% of the preview. I think this was a issue of the canvas element being smaller than the video element it covered. The camera input is is piped into the canvas I believe. But the canvas was samller than we thought it was. Yet to be resolved as of Mar 3.\
    \
