@@ -118,6 +118,12 @@ const socialImageURL = new URL(
 
     gtag('config', 'G-CVSF5R33TZ');
   </script>
+
+  <script>
+    import { inject } from "@vercel/analytics";
+    inject()
+  </script>
+
   <body>
     <slot />
   </body>
