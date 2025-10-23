@@ -8,16 +8,14 @@ featured: true
 draft: false
 tags:
   - startup
-description: "I've reached a critical juncture."
+description: "I'm at a critical juncture."
 ---
-
-# What's ahead
 
 Every startup has canon events. If you watched Spider-Man: Into the Spider-Verse before, you know what I mean.
 
-If don't, a canon event is an experience in a person's life that comes to shape or define who they are. 
+If you don't, a canon event is an experience in a person's life that comes to shape who they are. 
 
-This moment is happening very soon for me and my startup, I'm expecting at the end of this week. A COO I met gave me a chance. He is interested. 
+This moment is happening very soon for my startup, I'm expecting at the end of this week. A COO I met gave me a chance. He is interested. 
 
 My inner historian wants to record this moment before the jump.
 
