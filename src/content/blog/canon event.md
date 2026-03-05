@@ -24,6 +24,3 @@ The past 3 months of grinding on this startup has led to this moment: all the ou
 It's all leading to this, I can feel the suspense. 
 
 And I will deliver.
-
-
-
