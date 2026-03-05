@@ -1,8 +1,8 @@
 ---
 title: The End of Zapdos
 author: Sabih Sarowar
-pubDatetime: 2026-03-05T11:42:51Z
-modDatetime: 2026-03-05T11:42:51Z
+pubDatetime: 2026-03-04T11:42:51Z
+modDatetime: 2026-03-04T11:42:51Z
 slug: zapdos-ending
 featured: true
 draft: false
