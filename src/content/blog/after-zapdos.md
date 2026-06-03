@@ -12,7 +12,7 @@ tags:
 description: "What I'm up to after shutting down my second startup."
 ---
 
-After officially calling it quits on Zapdos about 1.5 months ago, I've been drifting. Last month I talked to 8 people who were looking for technical cofounders or were exploring ideas. None of them had real traction or a solid idea. So many timewasters where there was no point in talking. They should have a paid pilot contract signed and to build the product to show in the demo calls, or had a pilot call coming soon and need to whip up a quick prototype.
+After officially calling it quits on Zapdos about 1.5 months ago, I've been drifting. Last month I talked to 8 people who were looking for technical cofounders or were exploring ideas. None of them had real traction or a solid idea. So many timewasters where there was no point in talking. They should have a paid pilot signed and just needed to build the product, or had a pilot call coming soon and needed help in whipping up a quick prototype. You do not need a technical cofounder when you have had 0 customer conversations.
 
 Last week I met a structural engineer who told me where he could see improvements in his tools. He had ideas and was entrepreneurial. He would work efficiently but had a hard time convincing his coworkers to do the same. For example he used LLMs but most of his cowokers didn't.
 
