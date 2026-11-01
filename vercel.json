@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    { "source": "/game", "destination": "/game/", "permanent": false }
+  ],
+  "rewrites": [
+    { "source": "/game/", "destination": "https://brave-night-sigma.vercel.app/" },
+    { "source": "/game/:path*", "destination": "https://brave-night-sigma.vercel.app/:path*" }
+  ]
+}
